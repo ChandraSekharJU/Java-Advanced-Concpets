@@ -1,4 +1,4 @@
-package MultiThreading3;
+package MultiThreading;
 
 public class ThreadCreation implements Runnable {
     @Override

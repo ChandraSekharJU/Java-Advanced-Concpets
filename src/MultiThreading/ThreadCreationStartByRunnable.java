@@ -1,4 +1,4 @@
-package MultiThreading3;
+package MultiThreading;
 
 public class ThreadCreationStartByRunnable {
     //In this we will see the Step2 of Thread Creation using Runnable

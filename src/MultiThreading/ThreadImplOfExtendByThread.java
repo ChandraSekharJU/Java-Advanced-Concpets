@@ -1,4 +1,4 @@
-package MultiThreading3;
+package MultiThreading;
 
 public class ThreadImplOfExtendByThread {
     public static void main(String[] args) {

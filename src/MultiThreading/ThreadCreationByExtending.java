@@ -1,4 +1,4 @@
-package MultiThreading3;
+package MultiThreading;
 
 //Create a Thread Sub Class by extending Thread class
 //Override the run method that tells which task Thread has to do
